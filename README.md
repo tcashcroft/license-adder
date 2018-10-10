@@ -24,13 +24,20 @@ The following flags are supported by this program:
 ```
 
 `base` - the base branch that the license branch will branch from
+
+
 `credentials` - the path to a credentials file. This file should have the user's Github username on the
 first line, and their password on the second line. If this option is used, `username` and `password`
 should not be used
+
 `license` - the path to a license file
+
 `new-branch` - the name of the new branch that will be used for adding the license
+
 `organization` - the name of the Github organization to check
+
 `password` - the password for the user's Github account
+
 `username` - the user's Github username
 
 
